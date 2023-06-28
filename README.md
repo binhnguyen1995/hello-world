@@ -10,8 +10,5 @@ update 2
 repo
 check
 origin
-<<<<<<< HEAD
 edit from binhnt
-=======
 edit from sontd
->>>>>>> origin/master
