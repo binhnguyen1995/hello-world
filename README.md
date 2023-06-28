@@ -9,3 +9,4 @@ ADD update repo
 update 2
 repo
 check
+origin
