@@ -8,3 +8,4 @@ This repository is built step by step in the tutorial.
 ADD update repo
 update 2
 repo
+check
